@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Subhashita Kumari</h1>
 
-🎓 MCA Student | 💻 Java & DSA Learner | 🚀 Future Software Developer
+<h3 align="center">
+🎓MCA Student | 💻Java Developer | DSA Learner | Building Projects Daily 🚀
+</h3>
 
 ---
 
