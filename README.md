@@ -12,9 +12,9 @@
 ---
 
 ## 📈 Current Focus
-- 🚀 Solving DSA problems daily  
-- 💻 Building Java backend projects  
-- 🧠 Improving problem-solving skills  
+🚀 Solving DSA problems daily  
+💻 Building Java backend projects  
+🧠 Improving problem-solving skills  
 
 ## 🛠️ Tech Stack
 
