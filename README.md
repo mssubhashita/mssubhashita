@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 About Me
-🔥 Practicing Data Structures & Algorithms daily
-💡 Interested in Backend Development (Java)
+🔥 Practicing Data Structures & Algorithms daily  
+💡 Interested in Backend Development (Java)  
 🎯 Goal: Crack a top placement
 
 ---
