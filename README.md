@@ -4,10 +4,16 @@
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 🔥 Practicing Data Structures & Algorithms daily
 💡 Interested in Backend Development (Java)
 🎯 Goal: Crack a top placement
+
+---
+📈 Current Focus
+Solving DSA problems daily
+Building Java backend projects
+Improving problem-solving skills
 
 ---
 
