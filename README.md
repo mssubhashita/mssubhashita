@@ -46,16 +46,16 @@ Git | GitHub
 * 📚 Document-Based Question Answering System
 * 🏠 Smart Home Automation
 * 🧠 DSA Practice Repository
-
----
 <!--
+---
+
 ## 🤝 Connect With Me
 
 * 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
 * 🔗 LinkedIn: your link
--->
+
 ---
 
 ## ⚡ Fun Fact
-
+-->
 💡 I believe consistency beats talent, so I code every day 💪
