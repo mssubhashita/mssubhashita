@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Subhashita Kumari
 
+🎓 MCA Student | 💻 Java & DSA Learner | 🚀 Future Software Developer
+
+---
+
+## 🚀 About Me
+🔥 Practicing Data Structures & Algorithms daily
+💡 Interested in Backend Development (Java)
+🎯 Goal: Crack a top placement
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+C++ | Java
+
+**Web Development:**
+HTML | CSS | JavaScript
+
+**Database:**
+MySQL
+
+**Tools:**
+Git | GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Subhashita's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssubhashita\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mssubhashita\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mssubhashita\&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects
+
+* 📚 Document-Based Question Answering System
+* 🏠 Smart Home Automation
+* 🧠 DSA Practice Repository
+
+---
 <!--
-**mssubhashita/mssubhashita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Connect With Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+* 🔗 LinkedIn: your link
 -->
+---
+
+## ⚡ Fun Fact
+
+💡 I believe consistency beats talent, so I code every day 💪
