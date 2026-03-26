@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhashita Kumari</h1>
+<h1 align="center">Hi 👋, I'm Subhashita </h1>
 
 <h3 align="center">
 🎓MCA Student | 💻Java Developer | DSA Learner | Building Projects Daily 🚀
